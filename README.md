@@ -53,8 +53,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser. <
  #### Orders Page:
  ![](https://github.com/Maudah/Luxury_Motors/blob/master/ScreenShots/Orders.JPG)
  
- #### Chatrooms Page:
+ #### Chat rooms Page:
  ![](https://github.com/Maudah/Luxury_Motors/blob/master/ScreenShots/Chat.JPG)
  
- #### Manage chatrooms Page:
+ #### Manage chat rooms Page:
  ![](https://github.com/Maudah/Luxury_Motors/blob/master/ScreenShots/ManageRooms.JPG)

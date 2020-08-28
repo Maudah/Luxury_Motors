@@ -1,0 +1,102 @@
+@import '../../css/variables.css';
+* {
+  box-sizing: border-box;
+}
+
+.buy-button-div {
+    display: flex;
+    justify-content: space-between;
+    padding: 17px;
+}
+
+.Buy-button-145 {
+margin-right: 0 !important;
+}
+.MuiStepIcon-root.MuiStepIcon-active {
+    color: var(--red-color) !important;
+}
+
+.MuiStepIcon-root.MuiStepIcon-completed {
+    color: var(--success-green-color) !important;
+}
+.buy-vehicle-image {
+    width: 150px;
+}
+.dx-widget {
+    text-align-last: center;
+}
+
+.order-completed-main {
+    text-align: center;
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+
+.order-completed-title {
+    text-align: center;
+}
+.order-completed-body {
+    text-align: center;
+    margin-bottom: 100px;
+}
+#received-icon {
+    color:  #00c400;
+    height: 100px;
+    width: 100px;
+}
+
+@media screen and (max-width: 768px) {
+    .order-completed-title {
+        font-size: 30px;
+    }
+    .order-completed-body {
+        font-size: 15px;
+    }
+}
+@media screen and (min-width: 769px) {
+    .order-completed-main {
+        margin-top: 30px;
+    }
+    .order-completed-title {
+        font-size: 50px;
+    }
+    .order-completed-body {
+        font-size: 25px;
+    }
+}
+
+.tracking-progress-bar {
+    flex-direction: column;
+}
+
+.tracking-progress-bar__item {
+    background: #E5E7ED;
+    border-radius: 50%;
+    color: #768CAD;
+    font-family: sans-serif;
+    height: 10px;
+    line-height: 30px;
+    position: relative;
+    text-align: center;
+    width: 10px;
+}
+
+.tracking-progress-bar__item__bar {
+    background: #E5E7ED;
+    display: block;
+    height: 30px;
+    width: 3px;
+    margin-left: 3.5px;
+}
+.tracking-progress-bar__item__bar--active {
+    background: #00c400;
+}
+
+.tracking-progress-bar__item--active {
+    background: #00c400;
+    color: #fff;
+}
+.tracker-text {
+    align-self: baseline;
+}

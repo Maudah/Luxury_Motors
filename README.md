@@ -26,4 +26,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser. <
 * Session: HTTP requests authentication
 
 ### Screenshots
- ![](https://github.com/Maudah/WPF_Babysitter/blob/master/Main.PNG)
+#### Home Page:
+ ![](https://github.com/Maudah/Luxury_Motors/blob/master/ScreenShots/Home.JPG)
+ #### Home Page drawer:
+ ![](https://github.com/Maudah/Luxury_Motors/blob/master/ScreenShots/Drawer.JPG)
+ ![]()
+ ![]()
+ ![]()
+ ![]()
+ ![]()
+ ![]()
+ ![]()
+ ![]()
+ ![]()

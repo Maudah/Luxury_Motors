@@ -24,6 +24,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser. <
 * CSS: Design
 * Cookie: Cart
 * Session: HTTP requests authentication
+* Redux: catalog's filters
 
 ### Screenshots
 #### Home Page:
